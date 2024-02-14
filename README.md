@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dhananjay Senday
 - 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me dhananjaysenday123@gmail.com
+- 📫 How to reach me dhananjaysenday@gmail.com
